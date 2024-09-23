@@ -1,0 +1,4 @@
+http://localhost/wordpress/wordpress/
+
+username : root
+password : dapdap2311/root
